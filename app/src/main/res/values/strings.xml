@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DynamicDex</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart_fragment_message">Suppose this is Cart</string>
+    <string name="proceed_shipping">Proceed Shipping</string>
+    <string name="old_shipping">I am the old shipping page. I was updated long back</string>
+    <string name="new_shipping">I am the new shipping page and I am from secondary dex. This is cool!!</string>
+    <string name="old_payment">This is Old Payment Page</string>
+    <string name="proceed_payment">Proceed Payment</string>
+
+</resources>
